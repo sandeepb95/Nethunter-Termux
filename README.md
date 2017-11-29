@@ -14,6 +14,6 @@ Steps
 5 chmod +x kalinethunter
 
 6 ./kalinethunter
-  after installing nethunter type command
+# after installing nethunter type command
   
 7 ./startkali.sh
